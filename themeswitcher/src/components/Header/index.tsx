@@ -5,7 +5,7 @@ import { Container } from './styles';
 const Header: React.FC = () => {
     return(
         <Container>
-            Hello World!
+            Theme Switcher
         </Container>
     );
 }
